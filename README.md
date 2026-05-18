@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![ISHADYI Github Stats](https://github-readme-stats-fast.vercel.app/api?username=ISHADYI&user=ISHADYI&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 <!--
 **ISHADYI/ISHADYI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
