@@ -41,7 +41,7 @@
 
 ## 📫 Как со мной связаться
 
-*   💼 **Портфолио (Figma / Behance):** https://www.behance.net/shadyxd
+*   💼 **Портфолио (Behance):** https://www.behance.net/shadyxd
 *   ✈️ **Telegram:** @ShadyXD
 *   📧 **Email:** shadyworkq@gmail.com
 
