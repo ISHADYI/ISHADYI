@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-- %23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core--%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🎨 Дизайн и Инструменты
